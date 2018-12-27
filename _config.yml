@@ -20,9 +20,9 @@ title                    : "SAPHIST"
 title_separator          : "-"
 name                     : "Your Name"
 description              : "Coding"
-url                      : "https://ggcmgg.github.io"
+url                      : "https://SAPHIST.github.io"
 baseurl                  : "/public"
-repository               : "saphist/public"
+repository               : "SAPHIST/public"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
