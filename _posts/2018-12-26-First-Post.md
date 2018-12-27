@@ -1,5 +1,5 @@
 ---
-title: 자기 주도 학습
+title: 1주차 
 ---
 
 # Start Camp Reflection
