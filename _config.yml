@@ -16,13 +16,13 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "SAPHIST"
+title                    : "saphist"
 title_separator          : "-"
 name                     : "Your Name"
 description              : "Coding"
-url                      : "https://SAPHIST.github.io"
+url                      : "https://saphist.github.io"
 baseurl                  : "/public"
-repository               : "SAPHIST/public"
+repository               : "saphist/public"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
